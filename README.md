@@ -1,6 +1,7 @@
 # K8s-crud-app
 
 This project stands out from others because it is entirely containerized with Docker, and orchestrated with Kubernetes. I developed a server that exposes an endpoint for creating customer orders. You are able to use a RESTful client to send raw JSON data and have it mapped to a MySQL database. 
+
 Tech used:
 
     Spring Boot: 
